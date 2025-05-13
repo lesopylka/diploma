@@ -1,0 +1,22 @@
+[0503/114314.356:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0503/115239.621:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0503/115239.784:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
+
+[0503/115239.844:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0503/115245.290:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 109
+[0503/115245.291:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 111
+[0503/115245.291:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 107
+[0503/115247.314:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[0503/132635.205:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0503/132635.240:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0503/151750.751:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0503/151750.848:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0503/151805.966:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[0503/151805.966:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
